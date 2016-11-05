@@ -101,7 +101,7 @@ strong {
 .header
 {
 	/**/
-	background:url(/images/logo1.png);
+	background:url(../images/logo1.png);
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;   
